@@ -78,7 +78,7 @@
 /* 두 화면이 함께 쓰는 FitNote 글자 로고의 기본 모양입니다. */
 .brand_logo {
   display: inline-block;
-  color: var(--color_primary_600);
+  color: var(--color_black);
   font-family: var(--font_display);
   font-size: 54px;
   font-weight: 400;

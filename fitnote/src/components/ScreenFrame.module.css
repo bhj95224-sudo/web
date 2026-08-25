@@ -51,7 +51,7 @@
   width: 489px;
   height: 489px;
   border-radius: 999px;
-  background: rgba(255, 181, 158, 0.2);
+  background: rgba(231, 255, 169, 0.2);
   filter: blur(50px);
   pointer-events: none;
 }
@@ -78,7 +78,7 @@
 .screen_frame[data-screen="login"] .ambient_glow {
   top: -214px;
   left: 144px;
-  background: rgba(255, 210, 147, 0.2);
+  background: rgba(244, 255, 147, 0.2);
 }
 
 /* 스플래시 영상에는 이미 빛이 들어 있으므로 추가 장식을 숨깁니다. */

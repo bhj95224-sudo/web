@@ -6,5 +6,5 @@ interface BrandLogoProps {
 
 export function BrandLogo({ variant }: BrandLogoProps) {
   // data-variant 값을 CSS가 읽고 알맞은 로고 모양을 골라 줍니다.
-  return <span className={styles.brand_logo} data-variant={variant}>FitNote</span>
+  return <span className={styles.brand_logo} data-variant={variant}>FreshNote</span>
 }
