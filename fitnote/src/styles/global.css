@@ -7,7 +7,7 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   --color_black: #1b1c1b;
-  --color_brown: #4F5D38;
+  --color_brown: #606f47;
   --color_primary_0: #ffffff;
   --color_primary_100: #F9FCF8;
   --color_primary_200: #D4FFD0;
@@ -17,6 +17,7 @@
   --color_primary_700: #568400;
   --color_secondary_500: #232621;
   --color_field_hint: #789b74;
+  --color_point: #599DA1;
   --font_display: "Libre Caslon Text", Georgia, serif;
   --font_body: "Wanted Sans Variable", "Wanted Sans", "Pretendard Variable", system-ui, sans-serif;
   --font_action: "Hanken Grotesk", system-ui, sans-serif;

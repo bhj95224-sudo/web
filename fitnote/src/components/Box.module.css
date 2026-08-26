@@ -23,7 +23,7 @@
 
 .feature_box_text h2 {
   margin: 0;
-  color: var(--color_primary_600);
+  color: var(--color_point);
   font-family: var(--font_display);
   font-size: 18px;
   font-weight: 500;
