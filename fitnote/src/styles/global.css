@@ -7,7 +7,7 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   --color_black: #1b1c1b;
-  --color_brown: #606f47;
+  --color_brown: #4f5c38;
   --color_primary_0: #ffffff;
   --color_primary_100: #F9FCF8;
   --color_primary_200: #D4FFD0;
@@ -15,6 +15,7 @@
   --color_login_500: #6ED40E;
   --color_primary_600: #6BAD00;
   --color_primary_700: #568400;
+  --color_primary_800: #415D00;
   --color_secondary_500: #232621;
   --color_field_hint: #789b74;
   --color_point: #599DA1;
